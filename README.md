@@ -182,12 +182,6 @@ Score(line, title="Serie – Retrogrado", composer="Esempio").make_file
 
 ---
 
-## Esecuzione degli esempi del notebook
-
-Apri `main.ipynb` e **esegui tutte le celle**: gli esempi generano i file `score.ly`, `score.{format}` e `score.midi` nella cartella corrente.
-
----
-
 ## Contribuire
 
 PR e issue sono benvenuti. Mantieni gli esempi **riproducibili** e aggiungi test minimi per nuove funzioni (pattern, mapping, layout).
