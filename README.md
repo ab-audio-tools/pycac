@@ -188,10 +188,4 @@ PR e issue sono benvenuti. Mantieni gli esempi **riproducibili** e aggiungi test
 
 ---
 
-## Licenza
-
-Scegli una licenza (es. MIT) e aggiungila come `LICENSE`.
-
----
-
 **Compatibilità:** Python **3.12.0+** · LilyPond **2.24+**.
